@@ -1,2 +1,4 @@
-# SQL-data
-Using Covid data for; data cleaning, data mining, and simple aggregate statistics in SQL 
+# SQL Data Cleaning & Aggregate Statistics
+## Skills used: 
+Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+## Challenges: 
